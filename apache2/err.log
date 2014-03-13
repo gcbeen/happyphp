@@ -1,0 +1,8 @@
+[Tue Mar 04 00:13:18.190962 2014] [authz_core:error] [pid 25875] [client 127.0.0.1:56240] AH01630: client denied by server configuration: /home/been/happy-php/
+[Tue Mar 04 00:13:22.040241 2014] [authz_core:error] [pid 25875] [client 127.0.0.1:56240] AH01630: client denied by server configuration: /home/been/happy-php/
+[Tue Mar 04 00:44:09.121553 2014] [authz_core:error] [pid 2945] [client 127.0.0.1:59599] AH01630: client denied by server configuration: /home/been/happy-php/
+[Tue Mar 04 00:44:12.639642 2014] [authz_core:error] [pid 2945] [client 127.0.0.1:59599] AH01630: client denied by server configuration: /home/been/happy-php/
+[Tue Mar 04 11:35:42.229132 2014] [authz_core:error] [pid 9178] [client 127.0.0.1:54593] AH01630: client denied by server configuration: /home/been/happy-php/public/
+[Tue Mar 04 11:35:44.798675 2014] [authz_core:error] [pid 9178] [client 127.0.0.1:54593] AH01630: client denied by server configuration: /home/been/happy-php/public/
+[Tue Mar 04 11:35:46.135340 2014] [authz_core:error] [pid 9178] [client 127.0.0.1:54593] AH01630: client denied by server configuration: /home/been/happy-php/public/
+[Tue Mar 04 11:35:48.206962 2014] [authz_core:error] [pid 9178] [client 127.0.0.1:54593] AH01630: client denied by server configuration: /home/been/happy-php/public/
